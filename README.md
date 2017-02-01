@@ -4,7 +4,7 @@ for the YCombinator "SAFE" Notes - http://www.ycombinator.com/documents/#safe (n
 This repo has prose objects for the YC SAFE Notes.  (It is not endorsed (yet?) by YC - our own work.)  
 
 See 
-https://github.com/CommonAccord/YC-SAFE/blob/master/README.md for more intro to  prose objects.
+https://github.com/CommonAccord/Form-Agt/blob/master/README.md for more intro to  prose objects.
 
 Happy if someone with more knowledge than ours would pickup this project and perfect it.  Flatter us with forks.
 
